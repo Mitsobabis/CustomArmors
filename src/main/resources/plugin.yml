@@ -1,0 +1,16 @@
+name: CustomArmorz
+version: '${project.version}'
+main: com.mitsos.main.Mitsos
+api-version: 1.13
+load: STARTUP
+authors: [ Mitsobabis ]
+description: Custom Armors
+commands:
+  gibarmor:
+    description: gives u stuff
+    usage: /<command>
+    alias: []
+  armorinfo:
+    description: shows you info about your armor
+    usage: /<command>
+    alias: []
